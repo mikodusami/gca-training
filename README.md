@@ -2,6 +2,10 @@
 
 ## each problem will be done according to the following:
 
+### 0. Pattern Recognition
+- [https://www.youtube.com/watch?v=LAnEeffb5zI](https://www.youtube.com/watch?v=LAnEeffb5zI)
+- write down all the pattern recognition terms, word usage, etc that signifes it is a type of topic
+
 ### 1. Declaring The Input & Output 
 - decare the input and output of the program and what it represents
 
@@ -29,10 +33,8 @@
 **MATH, BINARY SEARCH**
 - if n > 10^8: complexity can be O(1) or O(logn)
 
-### 5. Pattern Recognition
-- [https://www.youtube.com/watch?v=LAnEeffb5zI](https://www.youtube.com/watch?v=LAnEeffb5zI)
-- write down all the pattern recognition terms, word usage, etc that signifes it is a type of topic
-
+### 5. Chinese Table
+- start with the most minimal input and build up from there
 
 
 ## TIPS AND THINGS TODO
