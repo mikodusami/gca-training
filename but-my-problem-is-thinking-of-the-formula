@@ -1,0 +1,43 @@
+# MATRICES
+
+Write Out a Tiny Example:
+Use a 2x2 or 3x3 matrix and label the indices for each element.
+
+List Original and Target Indices:
+For each element, write its original (i, j) and where it should go in the new matrix.
+
+Look for a Numeric Pattern:
+Compare the original and new indices.
+
+Is one index reversed?
+Are they swapped?
+Is there a subtraction from size - 1?
+Test Your Formula:
+Plug in values for i and j to see if your formula matches the pattern you wrote out.
+
+Generalize:
+Once you see the pattern, write it as a formula for all elements.
+
+# NON MATRIX PROBLEMS
+
+For non-matrix problems, you can use a similar, systematic approach to avoid relying on visualization:
+
+Work With Examples:
+Write out a small input and the expected output. List the steps you’d take to get from input to output.
+
+Track Data With Variables:
+Focus on how data changes step by step. Use variables and write down their values at each step.
+
+Identify Patterns or Rules:
+Ask: What operation or rule connects the input to the output? Is it addition, sorting, counting, etc.?
+
+Generalize With Formulas or Algorithms:
+Once you see a pattern, express it as a formula or a set of steps (algorithm), not as a picture.
+
+Write Pseudocode:
+Before coding, write the logic in plain language or pseudocode. This helps you focus on the process, not the visuals.
+
+Test With Edge Cases:
+Try your logic on unusual or minimal cases to see if your rules hold.
+
+If you practice breaking problems into steps and focusing on the data and rules, you’ll build the habit of thinking algorithmically instead of visually. Want to try this approach on a sample non-matrix problem together?
